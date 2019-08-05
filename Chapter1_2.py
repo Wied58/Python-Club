@@ -21,6 +21,4 @@ for i in range (10):
     time.sleep(wait_time)
 
 
-# end of range loop
-
-
+	
